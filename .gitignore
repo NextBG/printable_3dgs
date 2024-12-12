@@ -1,0 +1,10 @@
+# Ignore models and outputs in 3dgs_renderer
+3dgs_renderer/models/
+3dgs_renderer/output/
+3dgs_renderer/legacy_codes/
+
+# Ignore legacy codes and samples in 3dgs_slicer
+3dgs_slicer/legacy_codes/
+3dgs_slicer/legacy_samples/
+3dgs_slicer/input/
+3dgs_slicer/output/
