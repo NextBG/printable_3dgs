@@ -1,0 +1,14 @@
+# ninja log v5
+0	3483	1720688190579532926	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/rasterizer_impl.o	282b448a2eff76a4
+0	8083	1720688195175339735	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	86e0ea8832787935
+0	17798	1720688204894936340	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/rasterize_points.o	315e1ce0bddc605a
+4	1286	1720688208002808816	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	5740b8999a3c3ff5
+3	1262	1720688363905230821	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	5740b8999a3c3ff5
+4	1299	1720692133736862285	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	5740b8999a3c3ff5
+4	3282	1720692135721070968	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/rasterizer_impl.o	282b448a2eff76a4
+4	7965	1720692140397559886	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	86e0ea8832787935
+4	1234	1721710998459841888	/home/caoruixiang/gaussian-splatting/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	5740b8999a3c3ff5
+0	1329	1721805725869628727	/home/caoruixiang/3dgs_renderer/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/forward.o	94ac231b9730238e
+0	3400	1721805727941643752	/home/caoruixiang/3dgs_renderer/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/cuda_rasterizer/rasterizer_impl.o	efa8c35571353e58
+0	8106	1721805732641677786	/home/caoruixiang/3dgs_renderer/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/ext.o	46eec94b893b1c55
+0	18268	1721805742809751214	/home/caoruixiang/3dgs_renderer/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-37/rasterize_points.o	eef9ff25ba42e02d

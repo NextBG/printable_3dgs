@@ -5,7 +5,7 @@ From 3dgs to sliced RGBA continuous color images
 .ply -> .png seq
 
 ### Input
-.ply file in ./3dgs_renderer/models/YOUR_MODEL_NAME.ly
+.ply file in ./3dgs_renderer/models/YOUR_MODEL_NAME.ply
 
 ### Output
 png sequence in ./3dgs_renderer/output/YOUR_MODEL_NAME/000000.png
